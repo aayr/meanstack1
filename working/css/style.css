@@ -1,0 +1,56 @@
+h1,h2,h3{
+    font-family: Raleway;
+}
+h3{
+    text-align: center;
+    color: azure;
+    border-radius: 50px;
+    background-color: rgba(49,64,89,0.7);
+    padding-top: 7px;
+    font-size: 45px;
+    height: 60px;
+    
+}
+
+a{
+    color: black;
+}
+.logo{
+    padding: 0;
+}
+span{
+    
+    font-weight: bold;
+}
+ul{
+    padding-top: 15px;
+}
+
+.cover{
+    background-image: url(../img/landscape3.jpg);
+    background-position: center center;
+    clear: both;
+    width:100%;
+    height:50%;
+    padding-top:100px;
+    align-items:center;
+}
+.cover p{
+     font-family: roboto;
+    text-align: center;
+    CLEAR:BOTH;
+    padding-top: 20px;
+    color: black;
+}
+p{
+    font-family: roboto;
+}
+button{
+    background-color:bisque;
+    
+}
+img{
+    height: 200px;
+    width: 300px;
+    padding-left: 20px;
+}

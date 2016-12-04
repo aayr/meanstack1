@@ -1,0 +1,92 @@
+h1,h3{
+    font-family: Bungee;
+    color: snow;
+    
+}
+
+
+span{
+    color: #D32F2F;
+}
+
+
+.nav ul{
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+a{
+    color: snow;
+
+}
+header{
+   background-color: black;
+    height: 70px;
+}
+body{
+    background-color: #263238;
+    }
+.cover img{
+    
+   margin-top: 50px;
+    height: 400px;
+    width: 1138px;
+    
+}
+
+
+.row1column1 img{
+    height: 200px;
+    width: 200px;
+}
+.row1column1 {
+    
+    color: snow;
+    background-color: black;
+    margin-top: 50px;
+    padding-bottom: 5px;
+}
+button{
+    color: black;
+}
+p{
+    font-family: Roboto;
+}
+.row1column2 img{
+    height: 200px;
+    width: 200px;
+}
+.row1column2 {
+    
+    color: snow;
+    background-color: black;
+    margin-top: 50px;
+    padding-bottom: 25px;
+}
+.row1column3 {
+    
+    color: snow;
+    background-color: black;
+    margin-top: 50px;
+    padding-top: 1px;
+    padding-bottom: 24px;
+}
+.row1column3 img{
+    height: 200px;
+    width: 350px;
+}
+.row1column3 ul{
+    font-family: Roboto;
+}
+footer{
+    margin-top: 50px;
+    background-color: black;
+    height: 70px;
+}
+.footer span{
+    font-family: Bungee;
+    
+}
+.footer p{
+    padding-top: 30px;
+    color: snow;
+}
